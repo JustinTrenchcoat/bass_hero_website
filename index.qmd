@@ -5,8 +5,13 @@ title: "Bass Hero Project Website"
 This website will hold Notes, code pieces and some other stuff that I would use for the Bass Hero Project.
 
 This project would have the following phases:
-1. music theory part: all necessary music theory knowledge about bass would be uploaded to this page as one part of the theoretical foundation of this project.
-2. modelling part: Will build a mathematical model that looks into finger positions and bass sheets.
+
+1. Music Theory Part: all necessary music theory knowledge about bass would be uploaded to this page as one part of the theoretical foundation of this project.
+
+2. Modelling Part: Will build a mathematical model that looks into finger positions and bass sheets.
+
+3. Machine Learning Part: A machine learning algorithm that automatically transforms music into bass sheets 
+
 More to come...
 
 This is a Quarto website.
