@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Bass Hero Project Website",
-    "section": "",
-    "text": "This website will hold Notes, code pieces and some other stuff that I would use for the Bass Hero Project.\nThis project would have the following phases: 1. music theory part: all necessary music theory knowledge about bass would be uploaded to this page as one part of the theoretical foundation of this project. 2. modelling part: Will build a mathematical model that looks into finger positions and bass sheets. More to come…\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "This website is a place to hold all files and notes related to my “Bass Hero” project. The name comes from the Anime Bocchi the Rock!, where the main chracter, Goto Hitori, uploads her guitar videos on YouTube by the username “Guitar Hero”. Please check out this anime, it is really good!!!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bass Hero Project Website",
+    "section": "",
+    "text": "This website will hold Notes, code pieces and some other stuff that I would use for the Bass Hero Project.\nThis project would have the following phases:\n\nMusic Theory Part: all necessary music theory knowledge about bass would be uploaded to this page as one part of the theoretical foundation of this project.\nModelling Part: Will build a mathematical model that looks into finger positions and bass sheets.\nMachine Learning Part: A machine learning algorithm that automatically transforms music into bass sheets.\n\nMore to come…\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
