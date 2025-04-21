@@ -14,6 +14,8 @@ This project would have the following phases:
 
 4. Package Part: all functions used will be packaged.
 
+5. Demo Part
+
 More to come...
 
 This is a Quarto website.
