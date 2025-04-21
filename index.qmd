@@ -12,6 +12,8 @@ This project would have the following phases:
 
 3. Machine Learning Part: A machine learning algorithm that automatically transforms music into bass sheets. 
 
+4. Package Part: all functions used will be packaged.
+
 More to come...
 
 This is a Quarto website.
