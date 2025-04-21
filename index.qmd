@@ -10,7 +10,7 @@ This project would have the following phases:
 
 2. Modelling Part: Will build a mathematical model that looks into finger positions and bass sheets.
 
-3. Machine Learning Part: A machine learning algorithm that automatically transforms music into bass sheets 
+3. Machine Learning Part: A machine learning algorithm that automatically transforms music into bass sheets. 
 
 More to come...
 
