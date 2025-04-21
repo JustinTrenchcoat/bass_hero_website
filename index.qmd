@@ -2,7 +2,7 @@
 title: "Bass Hero Project Website"
 ---
 
-This website will hold Notes, code pieces and some other stuff that I would use for the Bass Hero Project.
+This website will hold Notes, code pieces and some other stuff that I would use for the Bass Hero Project. Everything in here would follow the Create Commons Lisence.
 
 This project would have the following phases:
 
