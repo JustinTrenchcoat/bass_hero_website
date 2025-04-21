@@ -1,0 +1,9 @@
+---
+title: "Bass Hero Project Website"
+---
+
+This website will hold Notes, code pieces and some other stuff that I would use for the Bass Hero Project.
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
