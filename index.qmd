@@ -14,7 +14,7 @@ This project would have the following phases:
 
 4. Package Part: all functions used will be packaged.
 
-5. Demo Part
+5. Demo Part: would show a video of me trying on the BassHero application??
 
 More to come...
 
